@@ -3,7 +3,7 @@
 > 🛡️ Strength. ⚔️ Strategy. 🧠 Unity.  
 > _Forged in battle, driven by purpose._
 
-Welcome to the official GitHub page of **REAL KILLERS (RKIL)** — a dominant and strategic alliance on the **RAFAL** server in **Dofus 2.0**. We are committed to shaping a competitive yet collaborative server through elite gameplay, innovative PvP strategies, and a strong community foundation.
+Welcome to the official GitHub page of **REAL KILLERS (RKIL)** — a dominant and strategic alliance on the **RAFAL** server in **Dofus 3.0**. We are committed to shaping a competitive yet collaborative server through elite gameplay, innovative PvP strategies, and a strong community foundation.
 
 ---
 
@@ -27,7 +27,7 @@ We aim to make RAFAL a server where:
 
 ---
 
-## 📜 Alliance Goals (Deadline: May 15, 2024)
+## 📜 Alliance Goals (Deadline: May 15, 2025)
 
 We push our members to reach personal and collective milestones:
 
