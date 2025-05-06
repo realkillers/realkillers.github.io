@@ -11,7 +11,7 @@ Welcome to the official GitHub page of **REAL KILLERS (RKIL)** — a dominant an
 
 REAL KILLERS is more than just an alliance — we are a movement. United by a shared goal of mastering the game and fostering meaningful collaboration, RKIL brings together top-tier players, ambitious tacticians, and dedicated contributors.
 
-- 💥 Founded: 12.12.2024
+- 💥 Founded: 12.12.2025
 - 🌐 Server: **RAFAL (Dofus 3.0)**
 - 🧠 Focus: PvP, PvM, Political Strategy, Territory Control
 - 🔥 Motto: **“Strike with purpose. Defend with honor.”**
