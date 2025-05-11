@@ -3,6 +3,8 @@
 > 🛡️ Strength. ⚔️ Strategy. 🧠 Unity.  
 > _Forged in battle, driven by purpose._
 
+![image](https://github.com/user-attachments/assets/16a4db4a-1163-494b-a690-6dad23f797e0)
+
 Welcome to the official GitHub page of **REAL KILLERS (RKIL)** — a dominant and strategic alliance on the **RAFAL** server in **Dofus 3.0**. We are committed to shaping a competitive yet collaborative server through elite gameplay, innovative PvP strategies, and a strong community foundation.
 
 ---
@@ -11,7 +13,7 @@ Welcome to the official GitHub page of **REAL KILLERS (RKIL)** — a dominant an
 
 REAL KILLERS is more than just an alliance — we are a movement. United by a shared goal of mastering the game and fostering meaningful collaboration, RKIL brings together top-tier players, ambitious tacticians, and dedicated contributors.
 
-- 💥 Founded: 12.12.2025
+- 💥 Founded: 12.12.2024
 - 🌐 Server: **RAFAL (Dofus 3.0)**
 - 🧠 Focus: PvP, PvM, Political Strategy, Territory Control
 - 🔥 Motto: **“Strike with purpose. Defend with honor.”**
@@ -87,6 +89,8 @@ We're always looking for new blood — thinkers, fighters, and creators who want
 Follow updates, tactics, and community news here or on our social media (coming soon).
 
 ---
+
+![image](https://github.com/user-attachments/assets/cef67d7d-e646-4e4a-9d84-57d53dbd81f4)
 
 > 🧠 “You can win with power. But you dominate with strategy.”  
 > — RKIL Philosophy
